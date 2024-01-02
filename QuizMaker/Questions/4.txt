@@ -1,0 +1,7 @@
+which AVR assembler command does nothing?
+NOP
+ADC
+ADD
+CP
+========
+0

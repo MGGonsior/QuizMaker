@@ -1,0 +1,7 @@
+What is the capital of Ireland?
+Helsinki
+Warsaw
+London
+Dublin
+========
+3

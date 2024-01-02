@@ -1,0 +1,6 @@
+What is the capital of Germany?
+Berlin
+Warsaw
+Munich
+========
+0
