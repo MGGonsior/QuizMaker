@@ -26,6 +26,8 @@ Data ostatniej modyfikacji: 02.01.2024
 #include <string>
 #include <vector>
 #include <cstdlib>
+#include <stdlib.h>
+#include <time.h>  
 
 using namespace std;
 
@@ -343,6 +345,7 @@ bool QuizConfigAndStart()
 
 int main()
 {
+    srand(time(NULL));
     while (QuizConfigAndStart())
     {}
     return 0;
